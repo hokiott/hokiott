@@ -1,4 +1,4 @@
-### hi there 👋
+### hey 👋
 
 ![status](https://dev.discordprofiles.me/badge/status/783848630573989889?simple=true)
 ![playing](https://dev.discordprofiles.me/badge/playing/783848630573989889)
